@@ -77,7 +77,7 @@ export default {
           </div>
         </div>
         <div class="w-1/2 h-96 flex justify-center items-center">
-          <div class="border border-black rounded-full h-96 w-96 flex justify-center items-center">
+          <div class="border border-white rounded-full h-96 w-96 flex justify-center items-center">
             <span class="text-6xl text-white font-mono">{{ formatTime(countDown) }}</span>
           </div>
         </div>
